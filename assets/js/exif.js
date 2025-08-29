@@ -89,6 +89,8 @@
         0xA40A : "Sharpness",               // Direction of sharpness processing applied by camera
         0xA40B : "DeviceSettingDescription",    //
         0xA40C : "SubjectDistanceRange",    // Distance to subject
+        0xA433 : "LensMake",
+        0xA434: "LensModel",
 
         // other tags
         0xA005 : "InteroperabilityIFDPointer",
